@@ -1,6 +1,8 @@
 Opencart XML Paneli
 
+
 Uzun zaman önce yazdığım kodları paylaşıyorum.
+
 
 Döküman ne yazık ki yok. :)
 
@@ -10,9 +12,13 @@ Sorunuz olursa bana ulaşırsınız, hatırladığım kadarıyla yardımcı olur
 
 xmlpanel/core/run.php dosyasını cronjob'a bağlayacaksınız. Onu hatırlıyorum. :p
 
+
 Kolay gelsin.
 
 Dipnot:
+
 Ben olsam bunu kullanmazdım.
+
 2012 yılında OOP başlangıçım.
+
 Spagetti ve OOP birleşik olmuş.
