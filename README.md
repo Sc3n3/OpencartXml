@@ -1,13 +1,18 @@
 Opencart XML Paneli
 
-Uzun zaman önce yazdığım kodları paylaşıyorum.
+Uzun zaman Ã¶nce yazdÄ±ÄŸÄ±m kodlarÄ± paylaÅŸÄ±yorum.
 
-Döküman ne yazık ki yok. :)
+DÃ¶kÃ¼man ne yazÄ±k ki yok. :)
 
-Opencart kurulu olduğu dizinin altına bu dosyaları atın.
+Opencart kurulu olduÄŸu dizinin altÄ±na bu dosyalarÄ± atÄ±n.
 
-Sorunuz olursa bana ulaşırsınız, hatırladığım kadarıyla yardımcı olurum.
+Sorunuz olursa bana ulaÅŸÄ±rsÄ±nÄ±z, hatÄ±rladÄ±ÄŸÄ±m kadarÄ±yla yardÄ±mcÄ± olurum.
 
-xmlpanel/inc/run.php dosyasını cronjob'a bağlayacaksınız. Onu hatırlıyorum. :p
+xmlpanel/core/run.php dosyasÄ±nÄ± cronjob'a baÄŸlayacaksÄ±nÄ±z. Onu hatÄ±rlÄ±yorum. :p
 
 Kolay gelsin.
+
+Dipnot:
+Ben olsam bunu kullanmazdÄ±m.
+2012 yÄ±lÄ±nda OOP baÅŸlangÄ±Ã§Ä±m.
+Spagetti ve OOP birleÅŸik olmuÅŸ.
