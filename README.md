@@ -1,4 +1,4 @@
-Opencart XML Paneli
+# Opencart XML Paneli
 
 
 Uzun zaman önce yazdığım kodları paylaşıyorum.
@@ -15,7 +15,7 @@ xmlpanel/core/run.php dosyasını cronjob'a bağlayacaksınız. Onu hatırlıyor
 
 Kolay gelsin.
 
-Dipnot:
+## Dipnot:
 
 Ben olsam bunu kullanmazdım.
 
