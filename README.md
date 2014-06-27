@@ -19,6 +19,6 @@ Dipnot:
 
 Ben olsam bunu kullanmazdım.
 
-2012 yılında OOP başlangıçım.
+2011 yılında OOP başlangıçım.
 
 Spagetti ve OOP birleşik olmuş.
