@@ -19,6 +19,6 @@ Kolay gelsin.
 
 Ben olsam bunu kullanmazdım.
 
-2011 yılında OOP başlangıçım.
+OOP başlangıçım.
 
 Spagetti ve OOP birleşik olmuş.
